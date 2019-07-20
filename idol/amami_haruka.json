@@ -1,0 +1,27 @@
+{
+  "name": "天海春香",
+  "nameKana": "あまみ はるか",
+  "age": 17,
+  "height": 158,
+  "weight": 46,
+
+  "birthday": "04-03",
+  "color": "#E22B30",
+
+  "bust": 83,
+  "waist": 56,
+  "hips": 82,
+
+  "bloodType": "O",
+  "usualHand": "R",
+  "bornPlace": "神奈川県",
+
+  "hobbies": ["カラオケ", "長電話"],
+  "specialities": ["お菓子作り"],
+  "thingslike": ["歌うこと"],
+
+  "cv": ["中村繪里子"],
+  "cvNowIndex": 0,
+
+  "belong": "765 PRODUCTION"
+}
