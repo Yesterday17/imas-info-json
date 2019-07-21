@@ -23,5 +23,10 @@
   "cv": ["中村繪里子"],
   "cvNowIndex": 0,
 
-  "belong": "765 PRODUCTION"
+  "belong": "765 PRODUCTION",
+  "links": {
+    "moegirlpedia": "https://zh.moegirl.org/%E5%A4%A9%E6%B5%B7%E6%98%A5%E9%A6%99",
+    "niconicopedia": "https://dic.nicovideo.jp/a/%E5%A4%A9%E6%B5%B7%E6%98%A5%E9%A6%99",
+    "pixivpedia": "https://dic.pixiv.net/a/%E5%A4%A9%E6%B5%B7%E6%98%A5%E9%A6%99"
+  }
 }
